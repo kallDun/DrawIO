@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T21:07:16.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.78" etag="3MkIF5oaenjiBzn8GFik" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T21:19:11.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.78" etag="YP_hxlVOThNGrgevI-7m" version="20.3.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1432" dy="1012" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1538" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n-ul05FX5ywbopk7xyRO-3" value="parent_id int ((NOT NULL and parent&#39;s age &gt; 18) if age &lt; 18)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="n-ul05FX5ywbopk7xyRO-1">
+        <mxCell id="n-ul05FX5ywbopk7xyRO-3" value="parent_id int ((NOT NULL and parent is adult) if age &lt; 18)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="n-ul05FX5ywbopk7xyRO-1">
           <mxGeometry x="30" width="363" height="30" as="geometry">
             <mxRectangle width="363" height="30" as="alternateBounds" />
           </mxGeometry>
