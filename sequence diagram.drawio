@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T07:41:05.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="Vpl6AIho-6GYmY2kZ_Uz" version="20.4.0" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-03T07:51:38.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="088cfQWBRMQEQHHhlgjp" version="20.4.0" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1346" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Персонаж" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Моб" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-8" value="Наносити шкоду та видавати ефекти" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="160.0000000000001" as="sourcePoint" />
+            <mxPoint x="225" y="160.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-1" value="Нейтральний &#xa;NPC" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="zq52S6Dk0amT4qmCDl8a-1">
+          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-3" value="Предмет" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="zq52S6Dk0amT4qmCDl8a-3">
+          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-5" value="Пастка" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="zq52S6Dk0amT4qmCDl8a-5">
+          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-7" value="" style="verticalAlign=bottom;endArrow=block;entryX=1.062;entryY=0.078;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.176;exitY=0.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="3nuBFxr9cyL0pnOWT2aG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="190.0000000000001" as="sourcePoint" />
+            <mxPoint x="365" y="190.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-8" value="Взаємодіяти" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.996;exitY=0.471;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.14;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="zq52S6Dk0amT4qmCDl8a-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="240" as="sourcePoint" />
+            <mxPoint x="500" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-9" value="Отримувати предмет" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.176;exitY=0.647;shadow=0;strokeWidth=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.226;entryY=0.598;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zq52S6Dk0amT4qmCDl8a-4" target="3nuBFxr9cyL0pnOWT2aG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="269.9999999999999" as="targetPoint" />
+            <mxPoint x="360" y="269.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="Наносити шкоду та видавати ефекти" style="verticalAlign=bottom;endArrow=block;entryX=1.1;entryY=0.262;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.14;exitY=0.246;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zq52S6Dk0amT4qmCDl8a-4" target="3nuBFxr9cyL0pnOWT2aG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="sourcePoint" />
+            <mxPoint x="100" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-10" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=-0.167;exitY=0.308;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.119;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zq52S6Dk0amT4qmCDl8a-6" target="3nuBFxr9cyL0pnOWT2aG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="513.5999999999999" y="209.36" as="sourcePoint" />
+            <mxPoint x="106" y="209.77999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-11" value="Підбирати або втрачати предмет" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.25;exitY=0.785;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.083;entryY=0.872;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-2" target="zq52S6Dk0amT4qmCDl8a-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="106.36000000000004" y="300" as="sourcePoint" />
+            <mxPoint x="374.9999999999999" y="300.35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-12" value="Створювати нові предмети" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.028;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.194;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zq52S6Dk0amT4qmCDl8a-2" target="zq52S6Dk0amT4qmCDl8a-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.00000000000006" y="240" as="sourcePoint" />
+            <mxPoint x="708.6399999999999" y="240.35000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zq52S6Dk0amT4qmCDl8a-13" value="Створювати нові пастки" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1.083;exitY=0.105;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.028;entryY=0.103;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="zq52S6Dk0amT4qmCDl8a-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387.21999999999997" y="159.87999999999994" as="sourcePoint" />
+            <mxPoint x="515" y="159.71999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
