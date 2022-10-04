@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T10:29:53.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="nhC2dPSJWIVxM4lYQrXK" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-04T10:30:21.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.117" etag="VDQanhSkR8ltQAOWu-WD" version="20.4.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1122" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
             <mxPoint x="-223.79999999999998" y="124.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="Наносити шкоду та видавати ефекти" style="verticalAlign=bottom;endArrow=block;entryX=1.2;entryY=0.225;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.067;exitY=0.261;exitDx=0;exitDy=0;exitPerimeter=0;" parent="zq52S6Dk0amT4qmCDl8a-1" edge="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="Підвищити характеристики" style="verticalAlign=bottom;endArrow=block;entryX=1.2;entryY=0.225;shadow=0;strokeWidth=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.067;exitY=0.261;exitDx=0;exitDy=0;exitPerimeter=0;" parent="zq52S6Dk0amT4qmCDl8a-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="183.18999999999994" y="252.82" as="sourcePoint" />
             <mxPoint x="-224.14" y="251.2" as="targetPoint" />
